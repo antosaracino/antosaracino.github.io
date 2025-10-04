@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Antonella Saracino"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Ph.D student...
 
-hhhhh
+A full version of my CV is available [here](/files/Curriculum_Vitae.pdf)
