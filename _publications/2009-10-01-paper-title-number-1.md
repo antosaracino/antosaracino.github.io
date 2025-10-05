@@ -7,7 +7,6 @@ excerpt: 'T.M. Kowalewski, A.D. Ayangeakaa, N. Sensharma, R.V.F. Janssens, Y.M. 
 Campbell, S.R. Carmichael, M.P. Carpenter, P. Copp, C. Cousins, M. Devlin, U. Garg, C.M. Gatermann, T.J. Gray, D.J.
 Hartley, J. Heery, J. Henderson, H. Jayatissa, S.R. Johnson, S.P. Kisyov. F.G. Kondev, T. Lauritsen, S. Nandi, R. Rathod,
 W. Reviol, M. Rocchini, E. Rubino, R. Russel, A. Saracino, D. Seweryniak, M. Siciliano, C.Y. Wu.'
-date: 2009-10-01
 venue: 'Phys.Rev.C 112 (2025) 3, 034332'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://journals.aps.org/prc/abstract/10.1103/cmks-jst1)'
 
