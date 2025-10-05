@@ -18,6 +18,8 @@ When I’m not in the lab, I enjoy spending time at the climbing gym or travelin
 
 Research Interests 
 -
-
+-
++
+*
 
 A full version of my CV is available [here](/files/Curriculum_Vitae.pdf)
