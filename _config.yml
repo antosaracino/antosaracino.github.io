@@ -357,6 +357,4 @@ compress_html:
   ignore:
     envs: development
 
-    include:
-  - _includes/head/custom.html
 
