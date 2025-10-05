@@ -162,7 +162,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - _includes/head/custom.html
+  - _includes
 
 \exclude:
   - "*.sublime-project"
