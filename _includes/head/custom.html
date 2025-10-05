@@ -1,15 +1,5 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
-
-<!-- Force emoji favicon as final icon -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const link = document.createElement("link");
-    link.rel = "icon";
-    link.href = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='85'>⚛️</text></svg>";
-    document.head.appendChild(link);
-  });
-</script>
-
+<link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
 <!-- end custom head snippets -->
