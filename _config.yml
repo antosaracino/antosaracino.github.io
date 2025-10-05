@@ -163,7 +163,8 @@ include:
   - _pages
   - files
   - _includes/head/custom.html
-exclude:
+
+\exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
