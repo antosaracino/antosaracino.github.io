@@ -14,6 +14,8 @@ I am a Ph.D. student in the Department of Physics and Astronomy at the Universit
 
 I also am a Research Assistant at Triangle Universities Nuclear Laboratory (TUNL) in the Nuclear Structure group.
 
+My research explores nuclear structure at its most fundamental level, while maintaining a clear focus on its broader significance across various fields of applied science.
+
 When I’m not in the lab, I enjoy spending time at the climbing gym or traveling to discover inspiring landscapes and artistic masterpieces. I also enjoy cooking and sharing meals with the people I love.
 
 Research Interests 
