@@ -3,12 +3,15 @@ title: "Triaxiality and shape dynamics in 70Ge"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'T.M. Kowalewski, A.D. Ayangeakaa, N. Sensharma, R.V.F. Janssens, Y.M. Wang, Q.B. Chen, J.M. Allmond, C.M.
+Campbell, S.R. Carmichael, M.P. Carpenter, P. Copp, C. Cousins, M. Devlin, U. Garg, C.M. Gatermann, T.J. Gray, D.J.
+Hartley, J. Heery, J. Henderson, H. Jayatissa, S.R. Johnson, S.P. Kisyov. F.G. Kondev, T. Lauritsen, S. Nandi, R. Rathod,
+W. Reviol, M. Rocchini, E. Rubino, R. Russel, A. Saracino, D. Seweryniak, M. Siciliano, C.Y. Wu.'
 date: 2009-10-01
 venue: 'Phys.Rev.C 112 (2025) 3, 034332'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
