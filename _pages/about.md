@@ -18,8 +18,8 @@ When I’m not in the lab, I enjoy spending time at the climbing gym or travelin
 
 Research Interests 
 -
--
-+
-*
+- Gamma-Ray Spectroscopy
++ Low Energy Nuclear Physics
+* Radioisotope Production
 
 A full version of my CV is available [here](/files/Curriculum_Vitae.pdf)
