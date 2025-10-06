@@ -47,8 +47,8 @@
 
 /* Make author avatar circular */
 .author__avatar img {
-  width: 170px;          /* equal width and height */
-  height: 170px;
+  width: 200px;          /* equal width and height */
+  height: 200px;
   border-radius: 50%;    /* perfect circle */
   object-fit: cover;     /* crops nicely */
   display: block;
