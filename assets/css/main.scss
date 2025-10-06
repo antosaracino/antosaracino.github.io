@@ -49,17 +49,11 @@
 .author__avatar img {
   width: 220px;          /* equal width and height */
   height: 220px;
-  border-radius: 60%;    /* perfect circle */
+  border-radius: 50%;    /* perfect circle */
   object-fit: cover;     /* crops nicely */
   display: block;
   margin: 0 auto;
 }
 
 
-/* Optional: make it responsive on smaller screens */
-@media (max-width: 600px) {
-  .author__avatar img {
-    width: 90px;
-    height: 90px;
-  }
-}
+
