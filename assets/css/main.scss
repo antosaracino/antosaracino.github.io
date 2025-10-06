@@ -41,3 +41,30 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ===========================
+   Custom Styles
+   =========================== */
+
+/* Make author avatar circular */
+.author__avatar img {
+  width: 120px;          /* equal width and height */
+  height: 120px;
+  border-radius: 50%;    /* perfect circle */
+  object-fit: cover;     /* crops nicely */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Optional: add subtle border + shadow */
+.author__avatar img {
+  border: 2px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Optional: make it responsive on smaller screens */
+@media (max-width: 600px) {
+  .author__avatar img {
+    width: 90px;
+    height: 90px;
+  }
+}
