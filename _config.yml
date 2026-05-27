@@ -26,11 +26,11 @@ author:
   avatar           : profilePic.png
   name             : "Antonella Saracino"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D Candidate in Experimental Nuclear Physics"
-  location         : "Chapel Hill, NC"
-  employer         : "UNC-CH and TUNL"
+  bio              : "Research Fellow in Physics"
+  location         : "Ann Arbor, MI"
+  employer         : "U-M"
   uri              : # URL
-  email            : "asaracino@unc.edu" 
+  email            : "asaracin@umich.edu" 
 
   # Academic websites
   academia         : # URL
